@@ -13,7 +13,7 @@ const examples = {
       'Covey had a very high reputation for young slaves and this reputation was of value to him.',
   'example3':
       'Him princess mary imagined the words he would say to her and what she would say to him and these words sometimes seemed cold and then to mean too much.',    
-  'example1':
+  'example4':
       'Oh thank you thank you cried the scarecrow.'
 };
 
