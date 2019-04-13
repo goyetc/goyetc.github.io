@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'It will be time enough then if you are back at half past seven.',
+      'the duchess is coming',
   'example2':
-      'Covey had a very high reputation for young slaves and this reputation was of value to him.',
+      'in a few moments he and mr',
   'example3':
-      'Him princess mary imagined the words he would say to her and what she would say to him and these words sometimes seemed cold and then to mean too much.',    
+      'the enemy from behind and not in front the french in their flight and spread out over a distance of twenty four hours',    
   'example4':
-      'Oh thank you thank you cried the scarecrow.'
+      'she took off her old shoes and tried on the silver ones which her as well as if they had been made for her'
 };
 
 function status(statusText) {
